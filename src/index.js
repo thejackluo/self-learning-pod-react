@@ -1,5 +1,7 @@
-import React from "react";
+import React, { Component } from "react";
 import ReactDOM from "react-dom";
+import "./css/frameworks/bootstrap.min.css";
+import "./css/frameworks/normalize.css";
 import "./css/webpages/index.css";
 import App from "./js/components/App";
 import * as serviceWorker from "./js/other/serviceWorker";
