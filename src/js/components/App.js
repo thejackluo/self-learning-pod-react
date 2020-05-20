@@ -3,6 +3,7 @@ import "../../css/frameworks/bootstrap.min.css";
 import "../../css/frameworks/normalize.css";
 import Table from "./Table";
 import Form from "./Form";
+import Counter from "./Counter";
 
 class App extends Component {
   state = {
@@ -29,7 +30,7 @@ class App extends Component {
   };
 
   render() {
-    const { characters } = this.state;
+    /*const { characters } = this.state;
 
     return (
       <div className="App">
@@ -40,6 +41,13 @@ class App extends Component {
             characterData={characters}
             removeCharacter={this.removeCharacter}
           />
+        </div>
+      </div>
+    ); */
+    return (
+      <div className="App">
+        <div className="container-fluid">
+          <Counter />
         </div>
       </div>
     );
