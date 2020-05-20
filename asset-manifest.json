@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/example-project/static/css/main.afa7b907.chunk.css",
-    "main.js": "/example-project/static/js/main.6dd21db4.chunk.js",
-    "main.js.map": "/example-project/static/js/main.6dd21db4.chunk.js.map",
-    "runtime-main.js": "/example-project/static/js/runtime-main.26834406.js",
-    "runtime-main.js.map": "/example-project/static/js/runtime-main.26834406.js.map",
-    "static/js/2.d79b14e4.chunk.js": "/example-project/static/js/2.d79b14e4.chunk.js",
-    "static/js/2.d79b14e4.chunk.js.map": "/example-project/static/js/2.d79b14e4.chunk.js.map",
-    "index.html": "/example-project/index.html",
-    "precache-manifest.fac739ea0e63edb2743933a43b0cc47f.js": "/example-project/precache-manifest.fac739ea0e63edb2743933a43b0cc47f.js",
-    "service-worker.js": "/example-project/service-worker.js",
-    "static/css/main.afa7b907.chunk.css.map": "/example-project/static/css/main.afa7b907.chunk.css.map",
-    "static/js/2.d79b14e4.chunk.js.LICENSE.txt": "/example-project/static/js/2.d79b14e4.chunk.js.LICENSE.txt"
+    "main.css": "/self-learning-pod-react/static/css/main.afa7b907.chunk.css",
+    "main.js": "/self-learning-pod-react/static/js/main.e0e0d69c.chunk.js",
+    "main.js.map": "/self-learning-pod-react/static/js/main.e0e0d69c.chunk.js.map",
+    "runtime-main.js": "/self-learning-pod-react/static/js/runtime-main.2066f521.js",
+    "runtime-main.js.map": "/self-learning-pod-react/static/js/runtime-main.2066f521.js.map",
+    "static/js/2.d79b14e4.chunk.js": "/self-learning-pod-react/static/js/2.d79b14e4.chunk.js",
+    "static/js/2.d79b14e4.chunk.js.map": "/self-learning-pod-react/static/js/2.d79b14e4.chunk.js.map",
+    "index.html": "/self-learning-pod-react/index.html",
+    "precache-manifest.f82e8362e43c3994bd699cf9c12ae3af.js": "/self-learning-pod-react/precache-manifest.f82e8362e43c3994bd699cf9c12ae3af.js",
+    "service-worker.js": "/self-learning-pod-react/service-worker.js",
+    "static/css/main.afa7b907.chunk.css.map": "/self-learning-pod-react/static/css/main.afa7b907.chunk.css.map",
+    "static/js/2.d79b14e4.chunk.js.LICENSE.txt": "/self-learning-pod-react/static/js/2.d79b14e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26834406.js",
+    "static/js/runtime-main.2066f521.js",
     "static/js/2.d79b14e4.chunk.js",
     "static/css/main.afa7b907.chunk.css",
-    "static/js/main.6dd21db4.chunk.js"
+    "static/js/main.e0e0d69c.chunk.js"
   ]
 }
