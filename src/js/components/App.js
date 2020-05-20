@@ -6,7 +6,12 @@ import Form from "./Form";
 
 class App extends Component {
   state = {
-    characters: [],
+    characters: [
+      {
+        name: "Jack",
+        job: "Entrepreneur",
+      },
+    ],
   };
 
   removeCharacter = (index) => {
@@ -20,7 +25,7 @@ class App extends Component {
   };
 
   handleSubmit = (character) => {
-    this.setState({ characters: [...this.state.charavters, character] });
+    this.setState({ characters: [...this.state.characters, character] });
   };
 
   render() {
@@ -29,10 +34,6 @@ class App extends Component {
     return (
       <div className="App">
         <div className="container-fluid">
-          <header className="App-header">
-            <h1>Hello World</h1>
-            <button className="btn btn-primary">Click here</button>
-          </header>
           <Form handleSubmit={this.handleSubmit} />
           <Table
             characterData={characters}
