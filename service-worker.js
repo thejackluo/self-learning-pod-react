@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/self-learning-pod-react/precache-manifest.f82e8362e43c3994bd699cf9c12ae3af.js"
+  "/self-learning-pod-react/precache-manifest.dda10d705191ee81f02c0fac4df4dc37.js"
 );
 
 self.addEventListener('message', (event) => {
