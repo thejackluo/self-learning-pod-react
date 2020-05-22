@@ -1,9 +1,10 @@
 import React, { Component } from "react";
-import "../../css/frameworks/bootstrap.min.css";
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../../css/frameworks/normalize.css";
-import Table from "./Table";
-import Form from "./Form";
+// import Table from "./Table";
+// import Form from "./Form";
 import Counter from "./Counter";
+import CreatePodForm from "./CreatePodForm";
 
 class App extends Component {
   // state = {
@@ -47,6 +48,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="container-fluid">
+          <CreatePodForm />
           <Counter />
         </div>
       </div>

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "../../css/frameworks/bootstrap.min.css";
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../../css/frameworks/normalize.css";
 
 class Form extends Component {
